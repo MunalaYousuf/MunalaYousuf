@@ -16,7 +16,6 @@
 - **AI Intern — Futurists Hub** [Jun-Sept 2025]  
   Automated workflows with **n8n**, designed innovation recommendation systems, and built proposals with data insights.
 
-
 ---
 
 ## 🎓 Education
@@ -31,6 +30,8 @@
 - Automation
 - Computer vision
 - Big Data & Cloud-Based Analytics
+
+---
 
 ### 🧠 Tech Stack
 **Languages:** Python, R, C++, Java  
